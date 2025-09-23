@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_ID&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
