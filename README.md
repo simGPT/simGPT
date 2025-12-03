@@ -27,6 +27,8 @@
 ![js]()
 
 ### :globe_with_meridians: Tool
+<p>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="display:inline-block;">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="display:inline-block;"> 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" style="display:inline-block;"> 
+</p>
