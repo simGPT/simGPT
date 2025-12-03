@@ -15,6 +15,7 @@
 
 ### :books: Library
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 ![js]()
 
 ### :file_cabinet: Database
