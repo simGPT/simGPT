@@ -14,8 +14,10 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 ### :books: Library
+<p>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="display:inline-block;">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" style="display:inline-block;"/></a>&nbsp
+</p>
 ![js]()
 
 ### :file_cabinet: Database
